@@ -6,15 +6,15 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.container-fluid .col-sm-1{
+.container-fluid .col-sm-1 img{
     width: 7vw;
 }
-.container-fluid .col-sm-2{
+.container-fluid .col-sm-2 img{
     width: 15vw;
 }
-.container-fluid .col-sm-4{
+.container-fluid .col-sm-4 img{
     width: 30vw;
 }
-.container-fluid .col-sm-12{
+.container-fluid .col-sm-12 img{
     width: 60vw;
 }
