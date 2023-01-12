@@ -6,15 +6,15 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.container-fluid .r-1{
+.container-fluid .col-sm-1{
     width: 7vw;
 }
-.container-fluid .r-2{
+.container-fluid .col-sm-2{
     width: 15vw;
 }
-.container-fluid .r-3{
+.container-fluid .col-sm-4{
     width: 30vw;
 }
-.container-fluid .r-4{
+.container-fluid .col-sm-12{
     width: 60vw;
 }
