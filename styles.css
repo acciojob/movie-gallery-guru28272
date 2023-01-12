@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container-fluid{
+.container-fluid .row-1, .row-2, .row-3, .row-4{
     min-width: 90vw;
     display: flex;
     justify-content: space-between;
